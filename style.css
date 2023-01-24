@@ -62,7 +62,8 @@ nav ul {
 }
 
 .imgbox img {
-  width: 40;
+  width: 15rem;
+  height: 15rem;
   transition: width 1s ease-in-out;
 }
 
